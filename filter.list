@@ -18,10 +18,12 @@ https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
+https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
+https://sigs.interserver.net/iprbl.txt
 https://threatview.io/Downloads/Experimental-IOC-Tweets.txt
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
