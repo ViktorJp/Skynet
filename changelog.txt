@@ -1,3 +1,10 @@
+February 11, 2023
+  - Added the following entries to the list:
+      https://iplists.firehol.org/files/et_spamhaus.netset
+      
+  - Removed from the list:
+      
+
 December 26, 2022
   - Added the following entries to the list:
       https://iplists.firehol.org/files/dm_tor.ipset
