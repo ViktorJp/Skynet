@@ -25,6 +25,6 @@ https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
 https://sigs.interserver.net/iprbl.txt
-https://threatview.io/Downloads/Experimental-IOC-Tweets.txt
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
+#https://threatview.io/Downloads/Experimental-IOC-Tweets.txt -- possibly causing issues
