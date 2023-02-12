@@ -1,6 +1,9 @@
 February 12, 2023
-  - ADDED:
+  - ADDED: (thanks to @somewhereovertherainbow for these additions
       https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
+      https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+      https://iplists.firehol.org/files/malc0de.ipset
+      https://www.talosintelligence.com/documents/ip-blacklist
 
 February 11, 2023
   - ADDED:
