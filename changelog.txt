@@ -1,11 +1,15 @@
+February 12, 2023
+  - ADDED:
+      https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
+
 February 11, 2023
-  - Added the following entries to the list:
+  - ADDED:
       https://iplists.firehol.org/files/et_spamhaus.netset      
-  - Removed from the list:
+  - REMOVED:
       https://threatview.io/Downloads/Experimental-IOC-Tweets.txt -- possibly causing issues
 
 December 26, 2022
-  - Added the following entries to the list:
+  - ADDED:
       https://iplists.firehol.org/files/dm_tor.ipset
       https://iplists.firehol.org/files/et_tor.ipset
       https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
