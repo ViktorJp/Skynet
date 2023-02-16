@@ -1,3 +1,7 @@
+February 16, 2023
+  - REMOVED: (thanks to chongnt's keen eye)
+      https://iplists.firehol.org/files/dshield_1d.netset
+
 February 12, 2023
   - ADDED: (thanks to @somewhereovertherainbow for these additions
       https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
