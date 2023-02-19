@@ -31,4 +31,5 @@ https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://www.talosintelligence.com/documents/ip-blacklist
+https://voipbl.org/update
 # https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset --- great list, but contains 2.5M entries and 2.3M ranges
