@@ -5,6 +5,7 @@ https://iplists.firehol.org/files/bi_any_2_30d.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/dm_tor.ipset
 https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
@@ -19,6 +20,7 @@ https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
 https://iplists.firehol.org/files/malc0de.ipset
+https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
@@ -26,7 +28,7 @@ https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
 https://sigs.interserver.net/iprbl.txt
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://www.talosintelligence.com/documents/ip-blacklist
+# https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset --- great list, but contains 2.5M entries and 2.3M ranges
