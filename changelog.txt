@@ -1,3 +1,11 @@
+February 19, 2023
+  - REMOVED: (thanks to excellent sleuthing work of @somewhereovertherainbow, and using lists that combine others
+      https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
+      https://iplists.firehol.org/files/dm_tor.ipset
+  - ADDED:
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset
+      https://voipbl.org/update/
+
 February 16, 2023
   - REMOVED: (thanks to chongnt's keen eye)
       https://iplists.firehol.org/files/dshield_1d.netset
