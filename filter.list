@@ -26,7 +26,6 @@ https://iplists.firehol.org/files/malc0de.ipset
 https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
-https://iplists.firehol.org/files/talosintel_ipfilter.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 https://sigs.interserver.net/iprbl.txt
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
