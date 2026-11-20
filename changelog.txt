@@ -1,3 +1,7 @@
+November 20, 2026
+  - ADDED:
+      https://netapi.com/api2/netapi-compromised-ips.txt
+
 July 13, 2025
   - REMOVED:
       https://iplists.firehol.org/files/normshield_high_attack.ipset
